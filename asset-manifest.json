@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/IG-Kim2511/me_2023-0812-cart_page-recoil-build/static/css/main.ad33c65f.css",
+    "main.js": "/IG-Kim2511/me_2023-0812-cart_page-recoil-build/static/js/main.780d4eab.js",
+    "static/media/poke(4).png": "/IG-Kim2511/me_2023-0812-cart_page-recoil-build/static/media/poke(4).6d908fe223ab6f402fa4.png",
+    "static/media/poke(1).png": "/IG-Kim2511/me_2023-0812-cart_page-recoil-build/static/media/poke(1).09da7d0d6495c346b533.png",
+    "static/media/poke(2).png": "/IG-Kim2511/me_2023-0812-cart_page-recoil-build/static/media/poke(2).a6185f5143951cfcb401.png",
+    "index.html": "/IG-Kim2511/me_2023-0812-cart_page-recoil-build/index.html",
+    "main.ad33c65f.css.map": "/IG-Kim2511/me_2023-0812-cart_page-recoil-build/static/css/main.ad33c65f.css.map",
+    "main.780d4eab.js.map": "/IG-Kim2511/me_2023-0812-cart_page-recoil-build/static/js/main.780d4eab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad33c65f.css",
+    "static/js/main.780d4eab.js"
+  ]
+}
